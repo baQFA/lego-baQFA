@@ -1,4 +1,4 @@
-# lego-baQFA
+# LEGO-BaQFA
 The program for a BaQFA LEGO Mindstorms robot
 
 
